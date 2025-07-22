@@ -79,7 +79,8 @@ npm install
 ```
 
 ## Estructura del proyecto
-``` plaintext
+
+```plaintext
 carpeta-destino/
 ├── config/                 # Configuraciones generales (DB, variables de entorno, etc.)
 │   └── db.js               # Configuración de la base de datos
@@ -104,7 +105,10 @@ carpeta-destino/
 ├── README.md              # Documentación del proyecto
 
 ```
+
 ---
+
+## GRACIAS TALENTO TECH Y A DANIEL RIVEROL (no nos olvidemos de TRIANA) POR LO QUE ME ENSEÑO EN ESTE CURSO.
 
 ## Licencia
 
